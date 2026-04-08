@@ -134,7 +134,7 @@ This repository is for **educational purposes only**.
   
 
 For more information or support 
-please contact us on via telegram 
+contact us on via telegram 
 https://t.me/FLASHUSDT_site
 
 ---
