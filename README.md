@@ -64,21 +64,7 @@ These tools often promise:
 - BEP20 (Binance Smart Chain)  
 
 > ⚠️ These apps do NOT actually interact with real blockchain networks.
-
----
-
-## 🚨 Risks & Dangers
-
-- Financial scams  
-- Fake payments  
-- Loss of real cryptocurrency  
-- Legal consequences  
-
-### 🧨 Common Scam Method:
-1. Victim sees fake USDT in wallet  
-2. Sends real crypto in exchange  
-3. Fake balance disappears  
-
+> 
 ---
 
 ## ⚠️ Warning
@@ -89,16 +75,6 @@ USDT Flashing Apps:
 We are not responsible for any misuse, financial loss, or illegal activities.
 Using this tool to deceive exchanges, users, or for fraud is strictly prohibited.
 Many "flash USDT" scams exist in the wild — this tool is a transparent open-source simulation.
-
----
-
-## 📜 Disclaimer
-
-This repository is for **educational purposes only**.
-
-- USDT flashing does NOT create real cryptocurrency  
-- It should NOT be used for transactions  
-- The author does NOT support or promote fraudulent activities  
 
 ---
 
